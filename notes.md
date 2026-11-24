@@ -5,3 +5,4 @@
 - 2026-11-20 · rpc was flaky, swapped endpoint
 - 2026-11-21 · rpc was flaky, swapped endpoint
 - 2026-11-22 · ponytail the funding flow
+- 2026-11-23 · clean logs
